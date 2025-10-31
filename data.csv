@@ -1,0 +1,7 @@
+id,gender,color,weight,head,feather,power,health,image_path
+M001,male,white,410,long,smooth,9,8,images/m001.jpg
+F001,female,gray,395,medium,rough,8,9,images/f001.jpg
+F002,female,white,400,long,smooth,7,8,images/f002.jpg
+M002,male,gray,405,short,smooth,8,7,images/m002.jpg
+F003,female,white,398,long,rough,9,9,images/f003.jpg
+F004,female,gray,392,medium,rough,7,8,images/f004.jpg
